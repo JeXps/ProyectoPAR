@@ -23,3 +23,9 @@ Es la carencia de una base de datos eficiente para administrar y agilizar la inf
 
 ## Base de datos
 Esta base de datos fue sacada de https://buscarv.com/plantillas/listados-con-datos-de-ejemplo-para-descargar/#google_vignette y editada agregando 4 atributos mas gracias a chat gpt y pidiendole registros aleatorios para poder llenas los campos que se agregaron.
+
+Escalabilidad: La base de datos debe ser capaz de escalar fácilmente para manejar un gran volumen de datos a medida que aumenta el número de usuarios y dispositivos MINI HERE. Esto implica utilizar tecnologías y arquitecturas que admitan la distribución horizontal y vertical.
+
+Flexibilidad: La estructura de la base de datos debe ser lo suficientemente flexible para adaptarse a los cambios en los requisitos del producto, como la adición de nuevos tipos de datos, la modificación de los atributos de los dispositivos, etc. Esto se puede lograr mediante el uso de modelos de datos flexibles
+
+Granularidad: La base de datos debe ser capaz de almacenar datos con un alto nivel de granularidad, es decir, datos detallados sobre la ubicación, el estado y el historial de los dispositivos MINI HERE, para proporcionar información precisa y oportuna a los usuarios.
