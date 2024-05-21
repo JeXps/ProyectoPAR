@@ -30,6 +30,13 @@ Es la carencia de una base de datos eficiente para administrar y agilizar la inf
 
 **Método:** Escribir procedimientos almacenados y triggers para realizar tareas repetitivas y validar datos automáticamente. Por ejemplo, un trigger puede actualizar automáticamente el stock cuando se realiza una venta, y un procedimiento almacenado puede generar un reporte diario de ventas.
 
+## Aplicaciones sobre la base de datos
+Gestión de dispositivos y usuarios: La base de datos puede utilizarse para gestionar eficazmente los dispositivos MINI HERE y sus asociaciones con los usuarios. Esto incluye el registro de nuevos dispositivos, la asignación a usuarios específicos, el seguimiento del estado de los dispositivos (como la batería restante) y la gestión de la información de los usuarios (como la configuración de preferencias).
+
+Análisis de datos de usuarios: La base de datos puede almacenar datos de actividad de los usuarios, como la frecuencia y los patrones de uso del producto, las áreas geográficas donde se utilizan con más frecuencia, etc. Estos datos pueden ser analizados para obtener información valiosa sobre el comportamiento del usuario, las tendencias de uso y las áreas de mejora del producto.
+
+Mejora del servicio al cliente: Al almacenar datos detallados sobre los dispositivos y los usuarios, la base de datos puede facilitar un servicio al cliente más eficiente y personalizado. Por ejemplo, los representantes de servicio al cliente pueden acceder fácilmente a la información de registro de un dispositivo para ayudar a un usuario a localizar un objeto perdido o resolver problemas técnicos.
+
 
 
 ## Objetivos
