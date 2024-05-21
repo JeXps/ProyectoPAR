@@ -10,7 +10,9 @@ Nuestra base de datos se relaciona con la venta de este dispositivo en su pagina
 Es la carencia de una base de datos eficiente para administrar y agilizar la información de nuestros clientes y nuestras ventas. Actualmente, enfrentamos dificultades significativas para acceder rápidamente a los registros de ventas, mantener una buena contabilidad y estar al tanto de todos nuestros movimientos. Esta situación nos impide prevenir problemas futuros, como pérdidas financieras y desorganización operativa.
 
 ## Nuestra solucion para el problema que enfrentamos
-
+### Modelado de Datos con Diagramas ER
+**Aporte:** Permitir una planificación estructurada de la base de datos, identificando las entidades, relaciones y atributos necesarios.
+**Método:** Utilización de diagramas entidad-relación para definir la estructura lógica de la base de datos. Esto asegurará que todos los aspectos clave de la información de clientes y ventas se capturen adecuadamente.
 
 
 
