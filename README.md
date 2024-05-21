@@ -46,3 +46,6 @@ Escalabilidad: La base de datos debe ser capaz de escalar fácilmente para manej
 Flexibilidad: La estructura de la base de datos debe ser lo suficientemente flexible para adaptarse a los cambios en los requisitos del producto, como la adición de nuevos tipos de datos, la modificación de los atributos de los dispositivos, etc. Esto se puede lograr mediante el uso de modelos de datos flexibles
 
 Granularidad: La base de datos debe ser capaz de almacenar datos con un alto nivel de granularidad, es decir, datos detallados sobre la ubicación, el estado y el historial de los dispositivos MINI HERE, para proporcionar información precisa y oportuna a los usuarios.
+
+## Como nos vamos a repartir el trabajo
+Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos ir modificando en tiempo real y asignandonos tareas, por lo consiguiente cada vez que vayamos a realizar modificacion del proyecto o a realizar algun cambio vamos a estar los dos juntos sin necesidad de asignarnos alguna tarea en especifico ya que todo lo realizamos juntos.
