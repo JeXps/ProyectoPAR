@@ -32,6 +32,23 @@ Es la carencia de una base de datos eficiente para administrar y agilizar la inf
 
 
 
+## Objetivos
+### Objetivo principal
+Diseñar, desarrollar e implementar una base de datos que gestione de manera eficiente los registros de clientes y ventas de la empresa, mejorando el acceso a la información y la toma de decisiones.
+
+### Objetivos complementarios
+**Optimizar el tiempo de respuesta de las consultas:** Asegurar que las consultas se ejecuten de manera rápida y eficiente.
+
+**Garantizar la integridad y consistencia de los datos:** Asegurar la precisión y coherencia de los datos a través de restricciones y validaciones adecuadas.
+
+**Facilitar la generación de reportes:** Permitir la creación de reportes detallados y personalizados.
+
+**Proveer escalabilidad:** Asegurar que la base de datos pueda manejar un aumento en el volumen de datos y usuarios sin perder rendimiento.
+
+**Asegurar la seguridad de los datos:** Implementar medidas para proteger los datos sensibles y asegurar el acceso adecuado.
+
+
+
 
 
 
