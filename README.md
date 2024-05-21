@@ -15,15 +15,19 @@ Es la carencia de una base de datos eficiente para administrar y agilizar la inf
 **Método:** Utilización de diagramas entidad-relación para definir la estructura lógica de la base de datos. Esto asegurará que todos los aspectos clave de la información de clientes y ventas se capturen adecuadamente.
 ### Normalización de la Base de Datos
 **Aporte:** Reducir la redundancia y mejorar la integridad de los datos, asegurando que cada dato se almacene una sola vez y que las relaciones entre datos sean coherentes.
+
 **Método:** Aplicar las formas normales (1NF, 2NF, 3NF) para estructurar las tablas de manera eficiente. Esto implicará dividir las tablas grandes en tablas más pequeñas y vinculadas, asegurando que las actualizaciones, eliminaciones e inserciones sean rápidas y precisas.
 ### SQL para Creación y Manipulación de Bases de Datos
 **Aporte:** Permitir la implementación efectiva de la estructura de la base de datos y las operaciones CRUD (Create, Read, Update, Delete).
+
 **Método:** Escribir scripts SQL para crear tablas, insertar datos, actualizar registros y realizar consultas. Esto incluirá la creación de tablas para clientes, productos y ventas, así como la inserción inicial de datos y la actualización periódica de la información.
 ### Índices y Optimización de Consultas
 **Aporte:** Mejorar el rendimiento de las consultas y el acceso a los datos, permitiendo acceder rápidamente a los registros de ventas y clientes.
+
 **Método:** Crear índices en columnas frecuentemente consultadas y optimizar las consultas SQL. Esto acelerará las búsquedas y reducirá el tiempo de respuesta de las consultas, mejorando la eficiencia operativa.
 ### Procedimientos Almacenados y Triggers
 **Aporte:** Automatizar procesos y asegurar la integridad de los datos, facilitando la generación de reportes y el seguimiento de las operaciones.
+
 **Método:** Escribir procedimientos almacenados y triggers para realizar tareas repetitivas y validar datos automáticamente. Por ejemplo, un trigger puede actualizar automáticamente el stock cuando se realiza una venta, y un procedimiento almacenado puede generar un reporte diario de ventas.
 
 
