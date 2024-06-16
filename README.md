@@ -1,4 +1,5 @@
 # MINI HERE
+# 1. Investigación y Análisis del Tema
 ## QUE ES MINI HERE 
 Es un dispositivo de rastreo y localización diseñado para ayudar a las personas a encontrar sus pertenencias de forma rápida y sencilla. Se trata de una pequeña pegatina que se puede adherir a objetos como llaves, billeteras, mochilas, o cualquier otro artículo que se pueda extraviar con facilidad.
 El dispositivo funciona en conjunto con una aplicación móvil que se instala en el teléfono inteligente del usuario. Cuando el usuario necesite encontrar un objeto al que haya adherido el MINI HERE, simplemente abre la aplicación y activa la función de búsqueda. El dispositivo emitirá entonces un sonido audible que facilita la localización del objeto perdido.
@@ -54,14 +55,6 @@ Diseñar, desarrollar e implementar una base de datos que gestione de manera efi
 
 **Asegurar la seguridad de los datos:** Implementar medidas para proteger los datos sensibles y asegurar el acceso adecuado.
 
-
-
-
-
-
-
-
-
 ## Base de datos
 Esta base de datos fue sacada de https://buscarv.com/plantillas/listados-con-datos-de-ejemplo-para-descargar/#google_vignette y editada agregando 4 atributos mas gracias a chat gpt y pidiendole registros aleatorios para poder llenas los campos que se agregaron.
 
@@ -73,3 +66,24 @@ Granularidad: La base de datos debe ser capaz de almacenar datos con un alto niv
 
 ## Como nos vamos a repartir el trabajo
 Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos ir modificando en tiempo real y asignandonos tareas, por lo consiguiente cada vez que vayamos a realizar modificacion del proyecto o a realizar algun cambio vamos a estar los dos juntos sin necesidad de asignarnos alguna tarea en especifico ya que todo lo realizamos juntos.
+
+# 2. Diseño de la Base de Datos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 3. Implementación de la Base de Datos
+## BASE CRUDA EN FORMATO CSV:
+[Uploading BASE CRUDA.csv…]()
+
+
