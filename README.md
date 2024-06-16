@@ -253,6 +253,8 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/3f6b431d-9802-437d-9f46-2e48a2644670)
 [Codigos consultas.sql](https://github.com/JeXps/ProyectoPAR/blob/main/Codigos%20Consultas.sql)
 
+# CONSULTAS EN MD
+[Consultas en MD.md]([https://github.com/JeXps/ProyectoPAR/blob/main/Codigos%20Consultas.sql](https://github.com/JeXps/ProyectoPAR/blob/main/Consultas%20en%20MD.md))
 
 
 
