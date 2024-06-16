@@ -249,7 +249,7 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
     - Respuesta: 95.88
     - ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/18b63758-f962-409b-b0ee-d58b60074765)
 
-#CAPTURA DE LAS CONSULTAS EN MYSQL
+# CAPTURA DE LAS CONSULTAS EN MYSQL
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/3f6b431d-9802-437d-9f46-2e48a2644670)
 
 
