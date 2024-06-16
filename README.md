@@ -84,6 +84,6 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 
 # 3. Implementación de la Base de Datos
 ## BASE CRUDA EN FORMATO CSV:
-[Uploading BASE CRUDA.csv…]()
+BASE CRUDA.csv
 
 
