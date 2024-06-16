@@ -83,8 +83,8 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 
 
 # 3. Implementación de la Base de Datos
-## BASE CRUDA EN FORMATO CSV:
-[BASE CRUDA.csv](https://github.com/user-attachments/files/15859629/BASE.CRUDA.csv)
+## BASE CRUDA EN FORMATO CSV:[BASE CRUDA.csv](https://github.com/user-attachments/files/15859629/BASE.CRUDA.csv)
+
 
 ## Importacion de la base de datos cruda a My sql:
 1: Creamos una base de datos 
@@ -122,6 +122,8 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/944eb599-487f-40ac-932f-cff2227586a1)
 
 
+
+4. Pruebas y Validación
 
 
 
