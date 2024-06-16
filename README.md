@@ -88,21 +88,37 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 
 ## Importacion de la base de datos cruda a My sql:
 1: Creamos una base de datos 
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/377e91d1-cced-4cf4-be63-efb9dac98281)
+
 2: Una vez creada la base de datos nos dirijimos hacia la base damos click derecho y en el apartado de table data import wizard
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/394d1e5d-e3ff-4b4a-aebd-4a1212ae5ff4)
+
 3: En este apartado elegimos nuestra base de datos en formato csv
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/5435f1c7-a92a-4ee7-a5ce-0dd4f1ff5a95)
+
 4: Damos next
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/1b536d44-5025-4520-998f-eb08a5ae5744)
+
 5: Aca ya automaticamente nos estara colocando las columnas y el tipo, damos next
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/c1c6852f-e648-437b-939b-a914e22a9c34)
+
 6: El programa ya se esta preparando para importar la tabla, damos next
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/46c580ae-0982-469c-b21d-968c22fc936f)
+
 7: Y listo nuestra base de datos quedo importada
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/ed2acf71-f4c0-4f73-b1a4-33556971c6b0)
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/4956bd43-0e4c-49b0-a1be-7e2a53793eb5)
+
 8: Podemos ya verla en este apartado
+
 ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/944eb599-487f-40ac-932f-cff2227586a1)
 
 
