@@ -125,6 +125,33 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 
 4. Pruebas y Validación
 
+# Reporte de Integridad y Eficiencia de la Base de Datos
+
+## Preguntas Fáciles
+
+1. **¿Cuántos clientes hay en la base de datos?**
+    ```sql
+    SELECT COUNT(DISTINCT `ID Cliente`) AS total_clientes FROM baseproyecto;
+    ```
+    - Respuesta: 952
+    - ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/8d26c0ad-8d0b-45bf-ac3b-c016544daddb)
+
+
+2. **¿Cuántos países diferentes hay en la base de datos?**
+    ```sql
+    SELECT COUNT(DISTINCT `País`) AS total_paises FROM baseproyecto;
+    ```
+    - Respuesta: 182
+    - ![image](https://github.com/JeXps/ProyectoPAR/assets/170148715/b007c12c-757c-4776-a9dd-3c69ec7dd80a)
+
+
+3. **¿Cuál es el precio unitario más alto registrado?**
+    ```sql
+    SELECT MAX(`Precio Unitario`) AS max_precio_unitario FROM baseproyecto;
+    ```
+    - Respuesta: [668]
+
+
 
 
 
