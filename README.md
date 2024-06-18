@@ -262,7 +262,7 @@ https://1drv.ms/x/c/673ae3ca52cdbaf7/EblXcqIdY9FIrHqfT9OXSK0BS-Lt71d1UVzoUI0LLx6
 
 
 # 6. Conclusiones y Futuros Aportes
-##Concluciones
+## Concluciones:
 El proyecto ha cumplido con éxito el objetivo principal de diseñar, desarrollar e implementar una base de datos eficiente para la gestión de registros de clientes y ventas. Los principales logros se pueden resumir de la siguiente manera:
 ## Optimización del tiempo de respuesta de las consultas:
 Las consultas en la base de datos ahora se ejecutan de manera rápida y eficiente gracias a la correcta estructuración de las tablas, la creación de índices y la optimización de las consultas SQL. Esto ha mejorado significativamente el rendimiento y la experiencia del usuario al interactuar con el sistema.
