@@ -69,6 +69,7 @@ Mi compañero Jeronimo y yo (Juan David) vivimos juntos y gracias a esto podemos
 
 # 2. Diseño de la Base de Datos
 Acontinuacion veremos la normalizacion de nuestra base de datos, la cual se puso en su forma original como primer paso, luego de esto en el 1NF, se elimino la concurrencia que esta tenia, por suerte esta base de datos no tenia mucha, seguimos en al 2NF, en el cual se crearon las llaves y relaaciones que fueron: Entidad de clientes, entidad de envios y por ultimo entidad de pagos, ya finalizando eliminamos los campos que no dependian de la llave primaria en estas tablas y se crearon uns nuevas las cuales fueron: Tabala de estados, tabla de productos, una tabla de los canales de ventas y por ultimo una tabla de seguimiento, de esta manera completaando la normalizacion de la base de datos.
+https://1drv.ms/x/c/673ae3ca52cdbaf7/EblXcqIdY9FIrHqfT9OXSK0BS-Lt71d1UVzoUI0LLx6ftA?e=5aFuKT
 
 
 
