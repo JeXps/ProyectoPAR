@@ -289,11 +289,28 @@ Evaluar y, si es necesario, implementar soluciones de almacenamiento y procesami
 
 [Normalizacion](https://1drv.ms/x/c/673ae3ca52cdbaf7/EblXcqIdY9FIrHqfT9OXSK0BS-Lt71d1UVzoUI0LLx6ftA?e=5aFuKT)
 
-[Base de datos](https://buscarv.com/plantillas/listados-con-datos-de-ejemplo-para-descargar/#google_vignette)
+[La base de datos fue sacada de aqui](https://buscarv.com/plantillas/listados-con-datos-de-ejemplo-para-descargar/#google_vignette)
 
 [Consultas en MD.md](https://github.com/JeXps/ProyectoPAR/blob/main/Consultas%20en%20MD.md)
 
 [Codigos consultas.sql](https://github.com/JeXps/ProyectoPAR/blob/main/Codigos%20Consultas.sql)
+
+Y las herramientas utilizadas para la creacion de este proyecto fueron:
+
+Excel
+
+GibHub
+
+Chatgpt
+
+Canva
+
+Mysql  Workbench
+
+Markdown
+
+Youtube
+
 
 
 
