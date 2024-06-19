@@ -285,6 +285,8 @@ Evaluar y, si es necesario, implementar soluciones de almacenamiento y procesami
 
 # Referencias
 ## Documentos
+[BASE CRUDA.csv](https://github.com/user-attachments/files/15859629/BASE.CRUDA.csv)
+[Copia de BASE_PROYECTO(1).xlsx](https://1drv.ms/x/c/673ae3ca52cdbaf7/EblXcqIdY9FIrHqfT9OXSK0BS-Lt71d1UVzoUI0LLx6ftA?e=5aFuKT)
 
 
 
