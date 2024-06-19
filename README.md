@@ -291,8 +291,9 @@ Evaluar y, si es necesario, implementar soluciones de almacenamiento y procesami
 
 [Base de datos](https://buscarv.com/plantillas/listados-con-datos-de-ejemplo-para-descargar/#google_vignette)
 
+[Consultas en MD.md](https://github.com/JeXps/ProyectoPAR/blob/main/Consultas%20en%20MD.md)
 
-
+[Codigos consultas.sql](https://github.com/JeXps/ProyectoPAR/blob/main/Codigos%20Consultas.sql)
 
 
 
