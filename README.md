@@ -283,7 +283,8 @@ Crear una interfaz de usuario más intuitiva y amigable que facilite la gestión
 ## Expansión de la capacidad de almacenamiento y procesamiento:
 Evaluar y, si es necesario, implementar soluciones de almacenamiento y procesamiento en la nube para manejar grandes volúmenes de datos de manera más eficiente y flexible.
 
-
+# Referencias
+## Documentos
 
 
 
