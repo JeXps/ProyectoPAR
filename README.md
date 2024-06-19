@@ -295,15 +295,15 @@ Evaluar y, si es necesario, implementar soluciones de almacenamiento y procesami
 
 [Codigos consultas.sql](https://github.com/JeXps/ProyectoPAR/blob/main/Codigos%20Consultas.sql)
 
-## Herramientas utilizadas:
+## Herramientas utilizadas para la creacion de este proyecto:
 
-Excel
-GibHub
-Chatgpt
-Canva
-Mysql  Workbench
-Markdown
-Youtube
+Excel-
+GibHub-
+Chatgpt-
+Canva-
+Mysql  Workbench-
+Markdown-
+Youtube.
 
 
 
